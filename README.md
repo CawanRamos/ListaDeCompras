@@ -15,7 +15,7 @@ Realizei o desenvolvimento do projeto com as seguintes tecnologias:
 ## 📝 Projeto
 
 - Este projeto tem como intuito de criar uma lista de compras, podendo adicionar itens e apaga-los.
-- Você pode acessar meu projeto finalizado pelo link 
+- Você pode acessar meu projeto finalizado pelo link https://cawanramos.github.io/ListaDeCompras/
 
 ## 🎨 Layout 
     
